@@ -1,6 +1,12 @@
 # Codeplug-Database
 This is a repository of codeplugs for a multitude of frequencies ranging from Retail, Railroads, Schools, EMS, some police, dmr plugs that would be paid elsewhere, and more. Since this included and compiled list with both the .csv, cps, and .img files it will work with Chirp. All in one place without the pesky need to sign into a premium radioreference account or an api key from other sites, with a decently low bonk-rate. 
 
+# How to contribute
+- Download the .csv
+- Open the .csv in chirp
+- Make your changes in chirp
+- Submit a pull request with your findings!
+
 # Sources
 Compiled data from
 https://www.dreamlandresort.com/info/scanner.html
