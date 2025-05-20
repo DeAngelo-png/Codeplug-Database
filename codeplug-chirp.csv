@@ -52,7 +52,6 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 52,33cm Call,904.500000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
 53,23cm Call,1294.500000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
 54,13cm Call,2305.200000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
-55,23cm Call,1294.500000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
 56,APRS,144.390000,,0.000000,Tone,100.0,88.5,023,NN,023,Tone->Tone,FM,5.00,S,8.0W,,,,,
 58,MURS,140.000000,off,0.000000,TSQL,88.5,199.5,023,NN,023,Tone->Tone,FM,5.00,S,1.0W,,,,,
 59,MURS 1,151.820000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,NFM,5.00,,8.0W,,,,,
