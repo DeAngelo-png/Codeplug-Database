@@ -4,7 +4,7 @@ This is a repository of codeplugs for a multitude of frequencies ranging from Re
 # How to contribute
 - Download the .csv
 - Open the .csv in chirp
-- Make your changes in chirp
+- Make your changes in chirp (E.g, Finding frequencies via the internet or your own scanner)
 - Submit a pull request with your findings!
 
 # Sources
