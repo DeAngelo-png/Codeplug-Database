@@ -7,6 +7,8 @@ This is a repository of codeplugs for a multitude of frequencies ranging from Re
 - Make your changes in chirp (E.g, Finding frequencies via the internet or your own scanner)
 - Submit a pull request with your findings!
 
+Please make sure that you copy the heading of the start of each catagory like the rest of the chart.
+
 # Sources
 Compiled data from
 https://www.dreamlandresort.com/info/scanner.html
