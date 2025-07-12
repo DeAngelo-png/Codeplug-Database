@@ -7,17 +7,19 @@ This is a repository of codeplugs for a multitude of frequencies ranging from Re
 - Make your changes in chirp (E.g, Finding frequencies via the internet or your own scanner)
 - Submit a pull request with your findings!
 
-Please make sure that you copy the heading of the start of each catagory like the rest of the chart.
+Please make sure that you put the corresponding frequenc(ies) in their respective categories or make a new csv for a new catagory.
 
 # Sources
-Compiled data from
-https://www.dreamlandresort.com/info/scanner.html
-https://www.radioreference.com/db/
-https://www.dmr-marc.net/
-https://radioid.net/
-https://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp
-https://www.repeaterbook.com/index.php
-https://mygmrs.com/
+Compiled data from (but not all data)
+- https://www.dreamlandresort.com/info/scanner.html
+- https://www.radioreference.com/db/
+- https://www.dmr-marc.net/
+- https://radioid.net/
+- https://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp
+- https://www.repeaterbook.com/index.php
+- https://mygmrs.com/
+- https://fmarc.net/calling-frequencies/
 
-# Supported Radios
-Anything that works with chirp
+# Supported Applications
+- Chirp, .csv
+- CPS, .cps (csv to cps conversion script soon)
